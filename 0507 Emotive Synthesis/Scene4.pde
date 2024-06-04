@@ -1,8 +1,6 @@
 int frameSec4 = frameSec3 + 24*10;
 void s4setup(){
-  size(512, 512);
   background(255);
-  frameRate(24);
 }
 
 void scene_4(){
