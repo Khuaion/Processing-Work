@@ -1,0 +1,40 @@
+所有圖片路徑為data/img/之下
+字體路徑：data/fomts/Cubic_11_1.100_R.ttf
+背景音樂在路徑data/sound/之下
+繼續按鍵都是Enter
+
+遊戲架構：
+
+1. 初始畫面由Open.jpg與Open_p.jpg輪流交替出現，直到玩家按下繼續按鍵。
+
+2. 導入L1_S1_EN.gif，播放一次。
+
+3. 導入Level 1 button black.jpg和Level 1 button white.jpg這兩張照片輪流交替出現，直到玩家按下繼續按鍵。
+
+3. 進入關卡一。
+
+4. 失敗：進入失敗畫面，導入LOSE.jpg和LOSE_pressed_dot.jpg這兩張照片輪流交替出現，直到玩家按下繼續按鍵，回到步驟3關卡一遊戲重新開始，直到成功。
+
+   成功：進入L1_S2_EN.gif播放一次，然後導入WIN_1.jpg和WIN_1_pressed_dot.jpg這兩張照片輪流交替出現，直到玩家按下繼續按鍵。
+
+5. 導入L2_S1_EN.gif，播放一次。
+
+6. 導入Level 2 button black.jpg和Level 2 button white.jpg這兩張照片輪流交替出現，直到玩家按下繼續按鍵。
+
+7. 進入關卡二。
+
+8. 失敗：進入失敗畫面，導入LOSE.jpg和LOSE_pressed_dot.jpg這兩張照片輪流交替出現，直到玩家按下繼續按鍵，回到步驟7關卡二遊戲重新開始，直到成功。
+
+   成功：導入WIN_2.jpg和WIN_2_pressed_dot.jpg這兩張照片輪流交替出現，直到玩家按下繼續按鍵。
+
+9. 進入L2_S2_EN.gif播放一次，然後導入ENDING_1.jpg和ENDING_1_pressed_dot.jpg這兩張照片輪流交替出現，直到玩家按下繼續按鍵。
+
+10. 回到步驟1初始畫面
+
+背景音樂播放循環（程式持續時間持續播放）：urban-lofi-dreamscape-by-sascha-ende-from-filmmusic-io.mp3
+當L1_S1_EN.gif，L1_S2_EN.gif，L2_S1_EN.gif，L2_S2_EN.gif播放時循環音效：write_with_pen.mp3
+滑鼠按下音效（按一下播一次）：506054__mellau__button-click-1.wav
+進入勝利畫面音效（放一次）：winSound.mp3
+進入失敗畫面音效（放一次）：loseSound.mp3
+第二關玩家在移動時放置音效：Walking2.mp3
+

@@ -1,0 +1,32 @@
+/*
+Urban Lofi Dreamscape by Sascha Ende
+Free download: https://filmmusic.io/song/12303-urban-lofi-dreamscape
+License (CC BY 4.0): https://filmmusic.io/standard-license
+*/
+
+/*
+506054__mellau__button-click-1:
+
+Attribution NonCommercial 4.0
+You are free to share (to copy, distribute and transmit) and to remix (to adapt and modify) as long as you credit the author of the sound and do not use the sound for commercial purposes. 
+*/
+
+/*
+winSound - marimba
+loseSound - powerdown07
+conversation - poyo
+write_with_pen
+
+Taira Komori All Rights Reserved.
+Download From: https://taira-komori.jpn.org/freesoundtw.html
+
+Terms of Use
+All sound effects on this website are created by Taira Komori.
+You are allowed to use the sounds free of charge and royalty free in your projects (such as films, videos, games, presentations, animations, stage plays, radio plays, audio books, apps) be it for commercial or non-commercial purposes.
+
+*/
+
+/*
+walking - MyEdit AI Generate
+
+*/
